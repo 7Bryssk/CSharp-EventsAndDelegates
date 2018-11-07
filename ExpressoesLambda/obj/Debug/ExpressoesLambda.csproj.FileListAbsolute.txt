@@ -1,0 +1,10 @@
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe.config
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\bin\Debug\ExpressoesLambda.pdb
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.csprojAssemblyReference.cache
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.frmLambda.resources
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.Properties.Resources.resources
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.GenerateResource.cache
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.exe
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\ExpressoesLambda\obj\Debug\ExpressoesLambda.pdb

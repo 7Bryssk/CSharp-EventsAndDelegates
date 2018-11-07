@@ -1,0 +1,7 @@
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\bin\Debug\UsandoLINQ.exe.config
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\bin\Debug\UsandoLINQ.exe
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\bin\Debug\UsandoLINQ.pdb
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\obj\Debug\UsandoLINQ.csprojAssemblyReference.cache
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\obj\Debug\UsandoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\obj\Debug\UsandoLINQ.exe
+C:\Users\Patty\Google Drive\Treinamento C#\EventsDelegate\UsandoLINQ\obj\Debug\UsandoLINQ.pdb
